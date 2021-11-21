@@ -1,7 +1,7 @@
 {
   "!type": "Button_bs4",
   "ChangeForm": "",
-  "appearance": " btn-secondary",
+  "appearance": " btn-info",
   "backgroundColor": "",
   "badge": "",
   "badgeAppearance": " badge-info",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 920,
+  "top": 896,
   "value": "Submit",
   "width": 88
 }

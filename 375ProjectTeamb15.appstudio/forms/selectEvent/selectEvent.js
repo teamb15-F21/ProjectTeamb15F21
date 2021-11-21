@@ -1,4 +1,4 @@
-/*
+
 btnShow.onclick=function(){
     query = "SELECT * FROM to_do_list_events"
   req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=375groupb15&query=" + query)
@@ -17,4 +17,3 @@ btnShow.onclick=function(){
   } else
     lblMessage.textContent = "Error code: " + req.status
 }
-*/

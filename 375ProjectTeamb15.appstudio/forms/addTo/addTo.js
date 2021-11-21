@@ -1,4 +1,4 @@
-/*
+
 let query =''
 let req={}
 netID = 'jaf32246'
@@ -6,7 +6,7 @@ let pw = '1396Cr247!'
 let results = []
 
 btn.onclick=function(){
-    event_name = inptEvent.value
+  event_name = inptEvent.value
   description = inptDescription.value
   street = inptStreet.value
   city = inptCity.value
@@ -29,4 +29,3 @@ btn.onclick=function(){
   } else
     lblAdd.value = "Error: " + req.status
 }
-*/

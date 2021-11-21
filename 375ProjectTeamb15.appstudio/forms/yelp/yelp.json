@@ -14,9 +14,45 @@
       "!type": "External",
       "file": [
         "forms",
-        "Form1",
+        "yelp",
         "Elements",
-        "Label1.json"
+        "inptLocation.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "yelp",
+        "Elements",
+        "inptTerm.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "yelp",
+        "Elements",
+        "inptPrice.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "yelp",
+        "Elements",
+        "btnShowData.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "yelp",
+        "Elements",
+        "Button1.json"
       ]
     }
   ],
@@ -26,7 +62,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "Form1",
+  "id": "yelp",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -34,7 +70,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "Form1.onshow()",
+  "onshow": "",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",

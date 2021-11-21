@@ -23,6 +23,30 @@
           "!type": "External",
           "file": [
             "forms",
+            "addTo",
+            "addTo.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "yelp",
+            "yelp.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "selectEvent",
+            "selectEvent.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
             "Form1",
             "Form1.json"
           ]
@@ -47,7 +71,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "yelp",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",

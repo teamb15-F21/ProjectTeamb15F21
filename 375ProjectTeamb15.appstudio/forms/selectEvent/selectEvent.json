@@ -14,19 +14,37 @@
       "!type": "External",
       "file": [
         "forms",
-        "Form1",
+        "selectEvent",
         "Elements",
-        "Label1.json"
+        "btnShow.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "selectEvent",
+        "Elements",
+        "txtResults.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "selectEvent",
+        "Elements",
+        "lblMessage.json"
       ]
     }
   ],
   "class": "",
-  "designHeight": 0,
-  "designWidth": 0,
+  "designHeight": 500,
+  "designWidth": 500,
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "Form1",
+  "id": "selectEvent",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -34,7 +52,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "Form1.onshow()",
+  "onshow": "",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",
@@ -43,5 +61,5 @@
   "style": "",
   "theme": "",
   "top": "0",
-  "width": 320
+  "width": "500"
 }

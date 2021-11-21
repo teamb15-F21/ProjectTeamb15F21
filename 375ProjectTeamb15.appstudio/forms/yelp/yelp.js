@@ -22,5 +22,5 @@ btnShowData.onclick = function() {
   })
 }
 Button1.onclick=function(){
-  ChangeForm(Form1)
+  ChangeForm(Next)
 }

@@ -14,9 +14,9 @@
       "!type": "External",
       "file": [
         "forms",
-        "Form1",
+        "Next",
         "Elements",
-        "Label1.json"
+        "lblOne.json"
       ]
     }
   ],
@@ -26,7 +26,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "Form1",
+  "id": "Next",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -34,7 +34,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "Form1.onshow()",
+  "onshow": "Next.onshow()",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",

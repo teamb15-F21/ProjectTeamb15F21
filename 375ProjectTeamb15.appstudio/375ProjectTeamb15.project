@@ -23,24 +23,18 @@
           "!type": "External",
           "file": [
             "forms",
-            "createAccount",
-            "createAccount.json"
           ]
         },
         {
           "!type": "External",
           "file": [
             "forms",
-            "loginPage",
-            "loginPage.json"
           ]
         },
         {
           "!type": "External",
           "file": [
             "forms",
-            "deleteEvent",
-            "deleteEvent.json"
           ]
         }
       ],
@@ -63,7 +57,6 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "deleteEvent",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",

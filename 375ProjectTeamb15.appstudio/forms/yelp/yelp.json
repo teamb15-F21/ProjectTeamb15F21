@@ -45,6 +45,7 @@
         "Elements",
         "btnShowData.json"
       ]
+<<<<<<< Updated upstream
     },
     {
       "!type": "External",
@@ -54,6 +55,8 @@
         "Elements",
         "Button1.json"
       ]
+=======
+>>>>>>> Stashed changes
     }
   ],
   "class": "",

@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 
+=======
+/*
+>>>>>>> Stashed changes
 let query =''
 let req={}
 netID = 'jaf32246'
@@ -6,7 +10,11 @@ let pw = '1396Cr247!'
 let results = []
 
 btn.onclick=function(){
+<<<<<<< Updated upstream
   event_name = inptEvent.value
+=======
+    event_name = inptEvent.value
+>>>>>>> Stashed changes
   description = inptDescription.value
   street = inptStreet.value
   city = inptCity.value
@@ -29,3 +37,7 @@ btn.onclick=function(){
   } else
     lblAdd.value = "Error: " + req.status
 }
+<<<<<<< Updated upstream
+=======
+*/
+>>>>>>> Stashed changes

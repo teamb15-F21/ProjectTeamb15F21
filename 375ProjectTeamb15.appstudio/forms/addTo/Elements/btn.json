@@ -1,7 +1,11 @@
 {
   "!type": "Button_bs4",
   "ChangeForm": "",
+<<<<<<< Updated upstream
   "appearance": " btn-info",
+=======
+  "appearance": " btn-secondary",
+>>>>>>> Stashed changes
   "backgroundColor": "",
   "badge": "",
   "badgeAppearance": " badge-info",
@@ -60,7 +64,11 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
+<<<<<<< Updated upstream
   "top": 896,
+=======
+  "top": 920,
+>>>>>>> Stashed changes
   "value": "Submit",
   "width": 88
 }

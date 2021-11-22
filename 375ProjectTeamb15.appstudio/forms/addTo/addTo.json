@@ -108,6 +108,7 @@
         "Elements",
         "btn.json"
       ]
+<<<<<<< Updated upstream
     },
     {
       "!type": "External",
@@ -117,6 +118,8 @@
         "Elements",
         "Pagination1.json"
       ]
+=======
+>>>>>>> Stashed changes
     }
   ],
   "class": "",

@@ -14,19 +14,47 @@
       "!type": "External",
       "file": [
         "forms",
+<<<<<<< Updated upstream:375ProjectTeamb15.appstudio/forms/Next/Next.json
         "Next",
         "Elements",
         "lblOne.json"
+=======
+        "selectEvent",
+        "Elements",
+        "btnShow.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "selectEvent",
+        "Elements",
+        "txtResults.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "selectEvent",
+        "Elements",
+        "lblMessage.json"
+>>>>>>> Stashed changes:375ProjectTeamb15.appstudio/forms/selectEvent/selectEvent.json
       ]
     }
   ],
   "class": "",
-  "designHeight": 0,
-  "designWidth": 0,
+  "designHeight": 500,
+  "designWidth": 500,
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
+<<<<<<< Updated upstream:375ProjectTeamb15.appstudio/forms/Next/Next.json
   "id": "Next",
+=======
+  "id": "selectEvent",
+>>>>>>> Stashed changes:375ProjectTeamb15.appstudio/forms/selectEvent/selectEvent.json
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -43,5 +71,5 @@
   "style": "",
   "theme": "",
   "top": "0",
-  "width": 320
+  "width": "500"
 }

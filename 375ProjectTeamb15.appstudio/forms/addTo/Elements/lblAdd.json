@@ -1,25 +1,44 @@
 {
   "!type": "Label_bs4",
+<<<<<<< Updated upstream
   "appearance": "info",
   "backgroundColor": "",
   "borderRadius": "",
+=======
+  "appearance": "primary",
+  "backgroundColor": "",
+  "borderRadius": "0",
+>>>>>>> Stashed changes
   "bottom": "auto",
   "cached_js": "",
   "cached_js_script_hash": "d41d8cd98f00b204e9800998ecf8427e",
   "children": [],
   "class": "",
   "color": "",
+<<<<<<< Updated upstream
   "display": "flex",
   "expanded_pmp": null,
   "fontFamily": "helvetica",
   "fontSize": "18",
   "fontStyle": "",
   "fontWeight": "bold",
+=======
+  "display": "",
+  "expanded_pmp": null,
+  "fontFamily": "",
+  "fontSize": "",
+  "fontStyle": "",
+  "fontWeight": "",
+>>>>>>> Stashed changes
   "height": 40,
   "hidden": "",
   "id": "lblAdd",
   "labelStyle": "text",
+<<<<<<< Updated upstream
   "left": 16,
+=======
+  "left": 24,
+>>>>>>> Stashed changes
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -41,8 +60,15 @@
   "pTop": "",
   "right": "auto",
   "script": "",
+<<<<<<< Updated upstream
   "style": "color:pink; text-align:center;",
   "top": 16,
   "value": "Add an event to your calendar",
   "width": 288
+=======
+  "style": "",
+  "top": 16,
+  "value": "Add an event to your calendar",
+  "width": 248
+>>>>>>> Stashed changes
 }

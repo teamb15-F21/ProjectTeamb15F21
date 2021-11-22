@@ -14,6 +14,14 @@
       "!type": "External",
       "file": [
         "forms",
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream:375ProjectTeamb15.appstudio/forms/Next/Next.json
+        "Next",
+        "Elements",
+        "lblOne.json"
+=======
+>>>>>>> Stashed changes
         "selectEvent",
         "Elements",
         "btnShow.json"
@@ -35,6 +43,10 @@
         "selectEvent",
         "Elements",
         "lblMessage.json"
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes:375ProjectTeamb15.appstudio/forms/selectEvent/selectEvent.json
+>>>>>>> Stashed changes
       ]
     }
   ],
@@ -44,7 +56,15 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
+<<<<<<< Updated upstream
   "id": "selectEvent",
+=======
+<<<<<<< Updated upstream:375ProjectTeamb15.appstudio/forms/Next/Next.json
+  "id": "Next",
+=======
+  "id": "selectEvent",
+>>>>>>> Stashed changes:375ProjectTeamb15.appstudio/forms/selectEvent/selectEvent.json
+>>>>>>> Stashed changes
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -52,7 +72,11 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
+<<<<<<< Updated upstream
   "onshow": "",
+=======
+  "onshow": "Next.onshow()",
+>>>>>>> Stashed changes
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",
